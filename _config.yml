@@ -1,17 +1,18 @@
+remote_theme: jekyll-theme-forty-jekyll-theme
 # site settings
 title: Forty
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+email: drjonestech@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+url: # community-blueprint-development.github.io
+author: Cristal Harris
+street_address: Restemblance LLC
+city: Atlanta
+state: GA
+zip_code: 30096
 country: United States of America
-phone: (716) 555-5555
+phone: 404-585-0311
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -42,3 +43,4 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
